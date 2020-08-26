@@ -503,7 +503,7 @@ section {
 }
 */
 .section-title h2::after {
-  margin: 1% 0 4% 46%;
+  margin: 1% 0 4% 44%;
 }
 
 @media only screen and (min-width: 600px)
