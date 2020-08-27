@@ -503,7 +503,7 @@ section {
 }
 */
 .section-title h2::after {
-  margin: 1% 0 4% 44%;
+  margin: 1% 0 4% 46%;
 }
 
 @media only screen and (min-width: 600px)
@@ -1172,6 +1172,19 @@ section {
 
 .team .member:hover .social {
   opacity: 1;
+}
+
+
+@media only screen and (min-width: 600px) {
+  .faculty-co {
+    margin-left: 24%;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .faculty-co {
+    margin-left: 24%;
+  }
 }
 
 /*--------------------------------------------------------------
