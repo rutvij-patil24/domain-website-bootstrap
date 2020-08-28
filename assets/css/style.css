@@ -531,7 +531,6 @@ section {
   }
 }
 
-
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
@@ -1191,9 +1190,26 @@ section {
 
 @media only screen and (min-width: 700px) {
   .faculty-co {
-    margin-left: 24%;
+    margin-left: 25%;
   }
 }
+
+@media only screen and (min-width: 300px) {
+  .team-responsive {
+    width: 380px;
+    height: 470px;
+    margin-left: 13%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .team-responsive {
+    width: 330px;
+    height: 430px;
+    margin-left: 3%;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # Pricing
