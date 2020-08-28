@@ -1198,7 +1198,7 @@ section {
   .team-responsive {
     width: 380px;
     height: 470px;
-    margin-left: 13%;
+    
   }
 }
 
@@ -1206,7 +1206,7 @@ section {
   .team-responsive {
     width: 330px;
     height: 430px;
-    margin-left: 10%;
+    margin-left: 20%;
   }
 }
 
